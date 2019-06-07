@@ -1,6 +1,6 @@
 <?php
 /**
- * Code the Change Starter Theme  Functions
+ * Code the Change Starter Theme Functions
  *
  * @package startertheme
  */
