@@ -22,7 +22,7 @@ $> git clone https://github.com/CodetheChangeFoundation/wordpress-theme-starter.
 /*
 
 Theme Name: Example Theme
-There URI: www.example.com
+Theme URI: www.example.com
 Author: Code the Change Foundation
 Author URI: http://codethechange.ca
 Description: A custom theme for Example non-profit
